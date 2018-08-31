@@ -1,0 +1,12 @@
+E:\Rajinder\AspNetCore\StudentCounselling\AccountManagerCore\obj\Debug\netcoreapp2.0\AccountCore.csprojResolveAssemblyReference.cache
+E:\Rajinder\AspNetCore\StudentCounselling\AccountManagerCore\obj\Debug\netcoreapp2.0\AccountCore.csproj.CoreCompileInputs.cache
+E:\Rajinder\AspNetCore\StudentCounselling\AccountManagerCore\obj\Debug\netcoreapp2.0\AccountCore.AssemblyInfoInputs.cache
+E:\Rajinder\AspNetCore\StudentCounselling\AccountManagerCore\obj\Debug\netcoreapp2.0\AccountCore.AssemblyInfo.cs
+E:\Rajinder\AspNetCore\StudentCounselling\AccountManagerCore\bin\Debug\netcoreapp2.0\AccountCore.deps.json
+E:\Rajinder\AspNetCore\StudentCounselling\AccountManagerCore\bin\Debug\netcoreapp2.0\AccountCore.dll
+E:\Rajinder\AspNetCore\StudentCounselling\AccountManagerCore\bin\Debug\netcoreapp2.0\AccountCore.pdb
+E:\Rajinder\AspNetCore\StudentCounselling\AccountManagerCore\bin\Debug\netcoreapp2.0\DbModel.dll
+E:\Rajinder\AspNetCore\StudentCounselling\AccountManagerCore\bin\Debug\netcoreapp2.0\DbModel.pdb
+E:\Rajinder\AspNetCore\StudentCounselling\AccountManagerCore\obj\Debug\netcoreapp2.0\AccountCore.csproj.CopyComplete
+E:\Rajinder\AspNetCore\StudentCounselling\AccountManagerCore\obj\Debug\netcoreapp2.0\AccountCore.dll
+E:\Rajinder\AspNetCore\StudentCounselling\AccountManagerCore\obj\Debug\netcoreapp2.0\AccountCore.pdb

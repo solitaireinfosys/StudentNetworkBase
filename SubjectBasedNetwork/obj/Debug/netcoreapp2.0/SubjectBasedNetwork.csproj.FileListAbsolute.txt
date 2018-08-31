@@ -1,0 +1,8 @@
+E:\Rajinder\AspNetCore\SubjectBasedNetwork\SubjectBasedNetwork\bin\Debug\netcoreapp2.0\SubjectBasedNetwork.deps.json
+E:\Rajinder\AspNetCore\SubjectBasedNetwork\SubjectBasedNetwork\bin\Debug\netcoreapp2.0\SubjectBasedNetwork.runtimeconfig.json
+E:\Rajinder\AspNetCore\SubjectBasedNetwork\SubjectBasedNetwork\bin\Debug\netcoreapp2.0\SubjectBasedNetwork.runtimeconfig.dev.json
+E:\Rajinder\AspNetCore\SubjectBasedNetwork\SubjectBasedNetwork\bin\Debug\netcoreapp2.0\SubjectBasedNetwork.dll
+E:\Rajinder\AspNetCore\SubjectBasedNetwork\SubjectBasedNetwork\obj\Debug\netcoreapp2.0\SubjectBasedNetwork.csprojResolveAssemblyReference.cache
+E:\Rajinder\AspNetCore\SubjectBasedNetwork\SubjectBasedNetwork\obj\Debug\netcoreapp2.0\SubjectBasedNetwork.csproj.CoreCompileInputs.cache
+E:\Rajinder\AspNetCore\SubjectBasedNetwork\SubjectBasedNetwork\obj\Debug\netcoreapp2.0\SubjectBasedNetwork.AssemblyInfoInputs.cache
+E:\Rajinder\AspNetCore\SubjectBasedNetwork\SubjectBasedNetwork\obj\Debug\netcoreapp2.0\SubjectBasedNetwork.AssemblyInfo.cs

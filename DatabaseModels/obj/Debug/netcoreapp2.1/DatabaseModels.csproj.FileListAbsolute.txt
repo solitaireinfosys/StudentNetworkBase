@@ -1,0 +1,9 @@
+E:\Rajinder\AspNetCore\SubjectBasedNetwork\DatabaseModels\bin\Debug\netcoreapp2.1\DatabaseModels.deps.json
+E:\Rajinder\AspNetCore\SubjectBasedNetwork\DatabaseModels\bin\Debug\netcoreapp2.1\DatabaseModels.dll
+E:\Rajinder\AspNetCore\SubjectBasedNetwork\DatabaseModels\bin\Debug\netcoreapp2.1\AccountCore.dll
+E:\Rajinder\AspNetCore\SubjectBasedNetwork\DatabaseModels\bin\Debug\netcoreapp2.1\AccountCore.pdb
+E:\Rajinder\AspNetCore\SubjectBasedNetwork\DatabaseModels\obj\Debug\netcoreapp2.1\DatabaseModels.csprojResolveAssemblyReference.cache
+E:\Rajinder\AspNetCore\SubjectBasedNetwork\DatabaseModels\obj\Debug\netcoreapp2.1\DatabaseModels.csproj.CoreCompileInputs.cache
+E:\Rajinder\AspNetCore\SubjectBasedNetwork\DatabaseModels\obj\Debug\netcoreapp2.1\DatabaseModels.AssemblyInfoInputs.cache
+E:\Rajinder\AspNetCore\SubjectBasedNetwork\DatabaseModels\obj\Debug\netcoreapp2.1\DatabaseModels.AssemblyInfo.cs
+E:\Rajinder\AspNetCore\SubjectBasedNetwork\DatabaseModels\obj\Debug\netcoreapp2.1\DatabaseModels.csproj.CopyComplete
